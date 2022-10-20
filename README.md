@@ -1,5 +1,7 @@
 # Sunny's Portfolio
 
+## Demo: [Github Pages](https://sunnysherrysunny.github.io/), [Netlify](sunnyguan.netlify.app) 
+
 ## Features
 
 - Simple and responsive design
