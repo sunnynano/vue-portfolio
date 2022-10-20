@@ -25,29 +25,29 @@
         >
           Follow me
         </p>
-        <ul class="flex gap-4 sm:gap-8">
+        <template class="flex gap-4 sm:gap-8">
           <a
             v-for="social in socials"
             :key="social.id"
             :href="social.url"
-            target="__blank"
+            target="_blank"
             class="
-              text-gray-400
-              hover:text-teal-600
-              dark:hover:text-cyan-100
               cursor-pointer
               rounded-lg
-              bg-primary-light
-              dark:bg-primary-dark
-              hover:bg-gray-100
               shadow-sm
               p-4
               duration-500
+              text-gray-400
+              hover:text-teal-600
+              dark:hover:text-cyan-100
+              bg-primary-light
+              dark:bg-primary-dark
+              hover:bg-gray-100
             "
           >
             <i :data-feather="social.icon" class="w-5 sm:w-8 h-5 sm:h-8"></i>
           </a>
-        </ul>
+        </template>
       </div>
     </div>
   </div>
@@ -70,8 +70,8 @@
             id: 2,
             name: "Linkedin",
             icon: "linkedin",
-            url: "https://www.linkedin.com/in/feiyang-guan/",
-          }
+            url: "https://www.linkedin.com/in/feiyang-guan",
+          },
         ],
       };
     },

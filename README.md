@@ -12,21 +12,27 @@
 - Download file button
 
 ## Installation
+1. #### Make sure you have installed [node.js and npm](https://nodejs.org/en/)
 
-1. ##### Open the project folder
+2. #### Open the project folder:
 
-2. ##### Install packages and dependencies:
+```
+cd sunny-portfolio
+```
+
+3. #### Install packages and dependencies:
 
 ```
 npm install
 ```
 
-3. ##### Start a local dev server at `http://localhost:8080`:
+4. #### Start a local dev server at `http://localhost:8080`:
 
 ```
 npm run serve
 ```
 
-
 ## Known Issues
-1. Safari based browsers may fail to toggle light/dark mode. For MacOS users, please use Chromium based browsers such as [Chrome](https://www.google.com/chrome) for best experiences.
+
+1. For iOS and ipadOS users, please visit the site via Safari browser.
+   Chrome browser on iOS and ipadOS may experience ["sticky hover" problem](https://css-tricks.com/solving-sticky-hover-states-with-media-hover-hover/).
