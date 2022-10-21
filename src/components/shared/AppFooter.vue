@@ -2,16 +2,16 @@
   <div class="container mx-auto">
     <div
       class="
-        pt-20
-        sm:pt-30
-        pb-8
-        mt-20
+        pt-10
+        sm:pt-15
+        pb-4
+        mt-10
         border-t-2 border-secondary-light
         dark:border-secondary-dark
       "
     >
       <!-- Footer social links -->
-      <div class="flex flex-col justify-center items-center mb-12 sm:mb-20">
+      <div class="flex flex-col justify-center items-center mb-5 sm:mb-10">
         <p
           class="
             font-general-semibold
@@ -50,11 +50,13 @@
         </template>
       </div>
     </div>
+    <FooterCopyright />
   </div>
 </template>
 
 <script>
   import feather from "feather-icons";
+  import FooterCopyright from "./FooterCopyright.vue";
   export default {
     name: "AppFooter",
     data() {
@@ -74,6 +76,9 @@
           },
         ],
       };
+    },
+    components: {
+      FooterCopyright,
     },
     mounted() {
       feather.replace();

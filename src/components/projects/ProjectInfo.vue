@@ -37,6 +37,21 @@
         >
           {{ techDto }}
         </p>
+         <p
+          class="
+            font-general-medium
+            text-2xl text-secondary-dark
+            dark:text-secondary-light
+            mb-2
+          "
+        >
+          Source code
+        </p>
+        <p
+          class="font-general-regular text-primary-dark dark:text-ternary-light"
+        >
+          {{ techDto }}
+        </p>
       </div>
     </div>
 
