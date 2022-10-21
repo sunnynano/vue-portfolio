@@ -19,7 +19,7 @@ const projectDetails = [
     tech: ["Vue.js", "Tailwind CSS"],
     src: "https://github.com/sunnysherrysunny/sunny-portfolio",
     demo: "https://sunnyguan.netlify.app/",
-    description: `This portfolio is a Single Page Application and features reactive design.
+    description: `This portfolio is a Single Page Application and features responsive design.
     I developed it on Vue.js and utilized Vue-Router to handle transitions between different views.
     I also used Tailwind CSS to beautify the webpage and switch between dark and light modes.`,
   },
