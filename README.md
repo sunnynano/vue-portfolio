@@ -1,6 +1,6 @@
 # Sunny's Portfolio
 
-## Demo: [Github Pages](https://sunnysherrysunny.github.io/), [Netlify](https://sunnyguan.netlify.app) 
+## Demo: [Github Pages](https://sunnysherrysunny.github.io/)
 
 ## Features
 
