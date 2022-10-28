@@ -7,7 +7,7 @@
         dark:text-primary-light
       "
     >
-      View source code at
+      View source code
       <a
         href="https://github.com/sunnysherrysunny/sunny-portfolio"
         target="_blank"
@@ -18,9 +18,10 @@
           hover:underline hover:text-teal-700
           dark:hover:text-cyan-200
           duration-500
+          uppercase
         "
       >
-        Github
+        Here  
       </a>
       . Developed by
 
