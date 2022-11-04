@@ -74,6 +74,18 @@
             icon: "linkedin",
             url: "https://www.linkedin.com/in/feiyang-guan",
           },
+          {
+            id: 3,
+            name: "Bangumi",
+            icon: "film",
+            url: "https://bgm.tv/user/634782",
+          },
+                    {
+            id: 4,
+            name: "Leetcode",
+            icon: "code",
+            url: "https://leetcode.com/sunnysherrysunny/",
+          },
         ],
       };
     },
