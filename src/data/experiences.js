@@ -18,7 +18,7 @@ const experiences = [
     id: 1,
     title: "Carnegie Mellon University",
     startDate: "Aug 2021 - May 2025",
-    detail: ["Bachelor of Science in Math and Computer Science"],
+    detail: ["Bachelor of Science in Computer Science"],
     imgSrc: require("@/assets/images/cmu-logo.png"),
     website: "https://www.cmu.edu"
   },
