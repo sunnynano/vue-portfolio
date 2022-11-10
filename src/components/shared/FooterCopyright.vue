@@ -15,21 +15,21 @@
           font-general-medium
           text-gray-800
           dark:text-gray-200
-          hover:underline hover:text-teal-700
+          underline
+          hover:text-teal-700
           dark:hover:text-cyan-200
           duration-500
           uppercase
         "
       >
-        Here  
-      </a>
+        Here</a
+      >
       . Developed by
-
       <span
         class="font-general-medium text-gray-800 dark:text-gray-200 uppercase"
       >
-        Sunny Guan.</span
-      >
+        Sunny Guan</span
+      >.
     </div>
   </div>
 </template>
