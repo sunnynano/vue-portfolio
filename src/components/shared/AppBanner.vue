@@ -15,7 +15,7 @@
         class="
           font-general-semibold
           text-3xl
-          md:text-3xl
+          md:text-4xl
           xl:text-4xl
           text-center
           sm:text-left

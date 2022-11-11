@@ -3,7 +3,8 @@
     <div
       class="
         font-general-regular
-        text-lg text-primary-dark
+        text-sm text-primary-dark
+        sm:text-lg
         dark:text-primary-light
       "
     >

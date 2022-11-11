@@ -6,8 +6,8 @@
       <p
         class="
           font-general-semibold
-          text-2xl
-          sm:text-5xl
+          text-4xl
+          md:text-5xl
           font-semibold
           mb-12
           text-primary-dark
