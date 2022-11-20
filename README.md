@@ -1,6 +1,6 @@
 # Sunny's Portfolio
 
-## Demo: [Netlify](https://sunnyguan.netlify.app) 
+# <a href = "https://sunnyguan.netlify.app" target = "_blank"> Demo </a>
 
 ## Features
 
@@ -14,6 +14,7 @@
 - Download file button
 
 ## Installation
+
 1. #### Make sure you have installed [node.js and npm](https://nodejs.org/en/)
 
 2. #### Open the project folder:
