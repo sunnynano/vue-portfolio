@@ -35,6 +35,7 @@ const projectDetails = [
     id: 3,
     language: ["Python"],
     tech: ["OpenCV", "NumPy"],
+    src: "https://github.com/sunnysherrysunny/Dirt-Drift",
     description: `Dirt Drift is a Python racing game featuring real-world physics simulation.
       To allow users to create and import custom racing tracks,
       I utilized OpenCV to process track images into game data.
