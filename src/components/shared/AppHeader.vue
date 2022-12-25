@@ -167,9 +167,4 @@
 </script>
 
 <style lang="css">
-  #nav a.router-link-exact-active {
-    @apply text-teal-700;
-    @apply dark:text-cyan-200;
-    @apply font-medium;
-  }
 </style>

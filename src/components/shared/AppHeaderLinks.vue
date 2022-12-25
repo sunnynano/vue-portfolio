@@ -16,6 +16,24 @@
     "
   >
     <router-link
+      to="/"
+      class="
+        font-general-medium
+        block
+        text-left text-lg
+        font-medium
+        text-primary-dark
+        dark:text-primary-light
+        hover:text-teal-600
+        dark:hover:text-cyan-100
+        sm:mx-4
+        mb-2
+        sm:py-2
+      "
+      aria-label="Home"
+      >Home</router-link
+    >
+    <router-link
       to="/projects"
       class="
         font-general-medium
@@ -29,6 +47,11 @@
         sm:mx-4
         mb-2
         sm:py-2
+        border-t-2
+        pt-3
+        sm:pt-2 sm:border-t-0
+        border-secondary-light
+        dark:border-secondary-dark
       "
       aria-label="Projects"
       >Projects</router-link
@@ -79,6 +102,34 @@
       aria-label="Contact"
       >Contact</router-link
     >
+
+    <span
+      class="
+        font-general-medium
+        block
+        text-left text-lg
+        font-medium
+        text-primary-dark
+        dark:text-primary-light
+        hover:text-teal-600
+        dark:hover:text-cyan-100
+        sm:mx-4
+        mb-2
+        sm:py-2
+        border-t-2
+        pt-3
+        sm:pt-2 sm:border-t-0
+        border-secondary-light
+        dark:border-secondary-dark
+      "
+    >
+      <a
+        href="https://github.com/sunnysherrysunny/sunny-portfolio"
+        target="_blank"
+      >
+        Source code</a
+      ></span
+    >
     <div
       class="
         border-t-2
@@ -100,5 +151,4 @@
 
 
 <style scoped>
-
 </style>
