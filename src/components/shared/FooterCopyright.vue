@@ -10,7 +10,7 @@
     >
       View source code
       <a
-        href="https://github.com/sunnysherrysunny/sunny-portfolio"
+        href="https://github.com/sunnysherrysunny/vue-portfolio"
         target="_blank"
         class="
           font-general-medium

@@ -124,7 +124,7 @@
       "
     >
       <a
-        href="https://github.com/sunnysherrysunny/sunny-portfolio"
+        href="https://github.com/sunnysherrysunny/vue-portfolio"
         target="_blank"
       >
         Source code</a
